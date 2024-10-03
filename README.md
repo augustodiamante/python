@@ -1,3 +1,3 @@
 # python
 
-## repositório de códigos python com foco em dados
+## Repositório de códigos python com foco em dados
